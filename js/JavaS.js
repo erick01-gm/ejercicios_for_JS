@@ -15,3 +15,25 @@ for (var i=10; i>=1; i--){
     console.log('Quedan '+i+ ' segundos'); 
 }
 console.log('Feliz Año Nuevo!!');
+/*
+WHILE
+var contador = 0;
+while(contador<10){
+  console.log('Estoy en la vuelta numero: ',contador );
+  contador++; 
+}
+*/
+/*
+FOR
+for (var i = 1; i <= 10; i++) {
+  console.log('Numero de vuelta: ', i);
+}
+*/
+/*
+DO-WHILE
+var contador = 0;
+do{
+  console.log('Numero de vuelta: ', contador); 
+  contador++; 
+} while(contador<10); 
+*/
